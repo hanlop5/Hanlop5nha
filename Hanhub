@@ -1,0 +1,6 @@
+Config = {
+    namescript = "Hanlop5"
+    logoscript = "128823923350426"
+    tacgia = "Hanlop5" "https://raw.githubusercontent.com/tngaming123/vesion/refs/heads/main/scriptbffree.lua"
+}
+loadstring(game:HttpGet("https://raw.githubusercontent.com/tngaming123/vesion/refs/heads/main/scriptbffree.lua"))()
